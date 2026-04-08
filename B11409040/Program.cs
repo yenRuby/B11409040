@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Yen Fang Tsen!");
+﻿Console.WriteLine("Hello, NTUST!");
