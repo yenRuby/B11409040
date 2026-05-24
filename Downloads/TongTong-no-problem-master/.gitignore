@@ -1,0 +1,8 @@
+**/__pycache__/
+.env
+*.mp3
+static/audio/voice_*.mp3
+obj/
+bin/
+*.csproj.user
+.vs/
